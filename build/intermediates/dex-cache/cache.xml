@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-924dc2241aeed4e0b5280df4ac2ef4e13d6a5683.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-7583caf5496f4fe260785db6b9d81bdad57b4cce.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-f09d86685c0457ddd684d915d2348df74dea61e5.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-1da577cf1af7364e34accefcd57f5029bad4b95a.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-12c7a004282ef7cd07237ef4813e8438f7dbec9e.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-094dbbe23dc07da7dc06bf49f7979fa68b84733c.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-b559a7d572b7d8682198f40a37cd3fce9b1860e7.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-e1ac230165741cb44375164f68a4541ed37ea77c.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-71d88255f048d5c3105a835cbe033667fa9626fc.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-cb3dcab80bc7573cfb79adeb06ae2c74a58f355e.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-c0e4acc488678883cb9241c480889066c027689f.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-e9a498789c2965b564fc7ada72b4410978fe8e65.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-543fd91f309c1098ea26ee419f11cd023fb9a26d.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-e0fbfc7339c7811c56f4cd2b616793f8bc42da54.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-450d1db06c44dff20e7decd1070d3d6c67cb4f29.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-b40c0d795cc1e991dab1ae94560fb4a9dee770cd.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-30907971be5f01cc72828e8f5596da994b33c152.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-5380e41d5aa55fe47b3397262e945ca767235816.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-155cbdee273925f33de07e62ac7028c541f3c5b7.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-5a8da065b1ea620d35811a39f89f5404687e71c4.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-993fc1c3b0de143b854d191aee16d16236a636a5.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-859b6c78543fd584e0be65167bcfbaea735c00d4.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/Documents/adt-bundle-linux-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-d63edca180ff44542825c5f55694eb74de3c6646.jar" />
+    </item>
+    <item
+        jar="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/home/haxorware/git/Orissa-Tourism/app/build/intermediates/pre-dexed/debug/classes-25f6948293ee0003db7e84d50cd600d0a8320612.jar" />
+    </item>
+
+</items>
